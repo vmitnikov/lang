@@ -1,0 +1,6 @@
+git checkout develop
+git fetch
+ubu@ubunt:~$ git clone git@github.com:vgalitsky/ael.git
+git fetch
+
+
